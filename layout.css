@@ -1,0 +1,16 @@
+body{
+    max-width: 1920px;
+    margin: 0 auto;
+}
+
+.site{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5em 10em;
+    gap: 2em;
+    background: url(image/background.jpg);
+    background-size: 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
